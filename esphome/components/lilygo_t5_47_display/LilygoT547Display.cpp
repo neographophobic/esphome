@@ -1,5 +1,7 @@
 #include "LilygoT547Display.h"
 #include "esphome/core/log.h"
+#include "esphome/core/application.h"
+#include "esphome/core/helpers.h"
 
 #define WAVEFORM EPD_BUILTIN_WAVEFORM
 
