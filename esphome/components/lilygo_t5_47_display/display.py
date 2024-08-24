@@ -6,8 +6,8 @@ from esphome.const import (
     CONF_ID,
     CONF_LAMBDA,
     CONF_PAGES,
-    ESPHOME_VERSION,
 )
+from esphome.const import __version__ as ESPHOME_VERSION
 
 CONF_CLEAR = "clear"
 CONF_TEMPERATURE = "temperature"
