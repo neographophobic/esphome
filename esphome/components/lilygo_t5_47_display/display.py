@@ -6,6 +6,7 @@ from esphome.const import (
     CONF_ID,
     CONF_LAMBDA,
     CONF_PAGES,
+    ESPHOME_VERSION,
 )
 
 CONF_CLEAR = "clear"
